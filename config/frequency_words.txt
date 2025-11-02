@@ -8,18 +8,10 @@
 理想汽车
 领跑
 新能源汽车
-
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-
+自动驾驶
 
 大疆
 DJI
-
 宇树
 王兴兴
 智元
@@ -29,14 +21,12 @@ DJI
 机器人
 具身智能
 
-
+腾讯
+阿里巴巴
 京东
-刘强东
-
 字节
 bytedance
-张一鸣
-
+抖音
 微软
 Microsoft
 
@@ -46,7 +36,6 @@ NVIDIA
 GPU
 算力
 AMD
-
 谷歌
 google
 gemini
@@ -61,24 +50,22 @@ ai
 人工智能
 claude
 Anthropic
-
+苹果
 iphone
 ipad
 mac
 ios
-
-自动驾驶
-
+华为
+鸿蒙
+HarmonyOS
+任正非
 集成电路
 芯片
 光刻机
-
 科技
-
 核能
 新能源
 储能
-
 卫星通信
 低轨卫星
 星链
